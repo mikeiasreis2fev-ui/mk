@@ -2111,26 +2111,10 @@ http://up.kiwi/live/351921603109/34939156/1252570.ts
 http://up.kiwi/live/351921603109/34939156/1252571.ts
 #EXTINF:-1 tvg-id="1252572" tvg-logo="https://ut.kiwi/i/a.fazenda.png" group-title="CANAL ✨ REALITY SHOW",A FAZENDA 18 - CAM 06
 http://up.kiwi/live/351921603109/34939156/1252572.ts
-#EXTINF:-1 tvg-id="1297998" tvg-logo="https://eventos.novanet.app.br/logos/Campeonato_Uruguaio.png" group-title="⚽️ CAMPEONATO URUGUAIO",10:00 | DANUBIO X CERRO LARGO
-http://up.kiwi/live/351921603109/34939156/1297998.ts
-#EXTINF:-1 tvg-id="1297999" tvg-logo="https://eventos.novanet.app.br/logos/Campeonato_Uruguaio.png" group-title="⚽️ CAMPEONATO URUGUAIO",13:00 | BOSTON RIVER X JUVENTUD
-http://up.kiwi/live/351921603109/34939156/1297999.ts
-#EXTINF:-1 tvg-id="1298000" tvg-logo="https://eventos.novanet.app.br/logos/NWSL_Feminina.png" group-title="⚽️ NWSL FEMININA",14:00 | NJ/NY GOTHAM FC (F) X ANGEL CITY (F)
-http://up.kiwi/live/351921603109/34939156/1298000.ts
-#EXTINF:-1 tvg-id="1298001" tvg-logo="https://eventos.novanet.app.br/logos/NFL.png" group-title="🏅 NFL GAME PASS",14:00 | LOS ANGELES RAMS X PHILADELPHIA EAGLES
-http://up.kiwi/live/351921603109/34939156/1298001.ts
-#EXTINF:-1 tvg-id="1298002" tvg-logo="https://eventos.novanet.app.br/logos/NFL.png" group-title="🏅 NFL GAME PASS",14:00 | NFL REDZONE X
-http://up.kiwi/live/351921603109/34939156/1298002.ts
-#EXTINF:-1 tvg-id="1298003" tvg-logo="https://eventos.novanet.app.br/logos/Campeonato_Argentino.png" group-title="⚽️ CAMPEONATO ARGENTINO",14:45 | HURACAN X ALDOSIVI
-http://up.kiwi/live/351921603109/34939156/1298003.ts
-#EXTINF:-1 tvg-id="1298004" tvg-logo="https://eventos.novanet.app.br/logos/Campeonato_Uruguaio.png" group-title="⚽️ CAMPEONATO URUGUAIO",16:00 | CERRO X WANDERERS
-http://up.kiwi/live/351921603109/34939156/1298004.ts
-#EXTINF:-1 tvg-id="1298005" tvg-logo="https://eventos.novanet.app.br/logos/Campeonato_Argentino.png" group-title="⚽️ CAMPEONATO ARGENTINO",17:00 | TALLERES CORDOBA X BELGRANO CORDOBA
-http://up.kiwi/live/351921603109/34939156/1298005.ts
-#EXTINF:-1 tvg-id="1298006" tvg-logo="https://eventos.novanet.app.br/logos/NFL.png" group-title="🏅 NFL GAME PASS",17:25 | DENVER BRONCOS X SAN FRANCISCO 49ERS
-http://up.kiwi/live/351921603109/34939156/1298006.ts
-#EXTINF:-1 tvg-id="1298007" tvg-logo="https://eventos.novanet.app.br/logos/Campeonato_Uruguaio.png" group-title="⚽️ CAMPEONATO URUGUAIO",19:30 | RACING MONTEVIDEO X PENÃROL
-http://up.kiwi/live/351921603109/34939156/1298007.ts
+#EXTINF:-1 tvg-id="1298041" tvg-logo="https://eventos.novanet.app.br/logos/Campeonato_Argentino.png" group-title="⚽️ CAMPEONATO ARGENTINO",19:00 | ESTUDIANTES X GIMNASIA M.
+http://up.kiwi/live/351921603109/34939156/1298041.ts
+#EXTINF:-1 tvg-id="1298042" tvg-logo="https://eventos.novanet.app.br/logos/Campeonato_Uruguaio.png" group-title="⚽️ CAMPEONATO URUGUAIO",20:00 | CLUB NACIONAL X ATLETICO TORQUE
+http://up.kiwi/live/351921603109/34939156/1298042.ts
 #EXTINF:-1 tvg-id="1257452" tvg-logo="" group-title="24H | ANIMACAO +16",24H | SIMPSONS
 http://up.kiwi/live/351921603109/34939156/1257452.ts
 #EXTINF:-1 tvg-id="1257451" tvg-logo="" group-title="24H | COMEDIA",24H | CHAVES
